@@ -19,7 +19,7 @@ void main()
     System.Console.Write("Введите число n = ");
     int n = int.Parse(Console.ReadLine()!);
 
-    if (n < m) System.Console.WriteLine("Введите n>m");
+    if (n < m) System.Console.WriteLine("Введите n > m");
     else System.Console.WriteLine("Сумма элементов между введенными значениями равна " + getSummNumbers(m, n));
 }
 
