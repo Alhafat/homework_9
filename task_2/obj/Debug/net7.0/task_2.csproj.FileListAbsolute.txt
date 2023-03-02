@@ -1,0 +1,15 @@
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.csproj.AssemblyReference.cache
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.AssemblyInfoInputs.cache
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.AssemblyInfo.cs
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.csproj.CoreCompileInputs.cache
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\bin\Debug\net7.0\task_2.exe
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\bin\Debug\net7.0\task_2.deps.json
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\bin\Debug\net7.0\task_2.runtimeconfig.json
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\bin\Debug\net7.0\task_2.dll
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\bin\Debug\net7.0\task_2.pdb
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.dll
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\refint\task_2.dll
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.pdb
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\task_2.genruntimeconfig.cache
+D:\учеба\4. Знакомство с языками программирования\9 семинар\homework\task_2\obj\Debug\net7.0\ref\task_2.dll
